@@ -69,10 +69,10 @@ void loop()
 ```
 
 .stl or .svg files for your Jack — if you use some other technique, include the respective supporting material.
-[Link to Jack file](
+[Link to Jack file](https://github.com/rec285/IDD-Fa19-Lab5/blob/master/jack.stl)
 
 At least one photo of your box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
-[Link to box picture](
+[Link to box picture](https://github.com/rec285/IDD-Fa19-Lab5/blob/master/IMG_8416.jpg)
 
 A video of your box in action.
-[Link to video](
+[Link to video](https://youtu.be/FSFVQykd49U)
